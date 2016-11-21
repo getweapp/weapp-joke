@@ -1,0 +1,12 @@
+<view class="container">
+    <image src="https://ogth2odq7.qnssl.com/G-%20%281%29.png" ></image>
+    <text class="about">Joke</text>
+
+    <view class="website">
+        <view class="item">
+            <text >GitHub:</text>
+            <text class="github">https://github.com/getweapp/weapp-joke </text>
+        </view>
+        
+    </view>
+</view>
